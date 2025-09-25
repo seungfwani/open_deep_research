@@ -146,6 +146,7 @@ You can use any of the tools provided to you to find resources that can help ans
 You have access to two main tools:
 1. **tavily_search**: For conducting web searches to gather information
 2. **think_tool**: For reflection and strategic planning during research
+You can access custom tools. Among the available tools, always prioritize using the custom tool first. Always.
 {custom_tools_prompt}
 {mcp_prompt}
 
